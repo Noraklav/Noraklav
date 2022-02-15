@@ -2,7 +2,7 @@
 <h2 align="center">A passionate Frontend Developer Jr</h2>
 
 
-- 📕 I'm currently working on [Astro Burgers](https://github.com/Noraklav/Astro_Burgers_v1.3)
+- 📕 I'm currently studying on [Coder House](coderhouse.com/?utm_term=&utm_campaign=14760151598&utm_source=google_performance_max&utm_medium=cpc)
 - 🧠 I’m currently learning <kbd>Front-end Web Development</kbd> at [CoderHouse](https://www.coderhouse.com/)
 - 👨‍💻 I want to develop my own Blockchain one day!
 - 📧 You wanna contact me? [Text me!](mailto:agustin.dv.2021@gmail.com)              
