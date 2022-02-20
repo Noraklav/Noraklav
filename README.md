@@ -4,7 +4,7 @@
 
 - 🧠 I’m currently learning <kbd>Front-end Web Development</kbd> at [CoderHouse](https://www.coderhouse.com/)
 - 👨‍💻 I want to develop my own Blockchain one day!
-- 📧 You wanna contact me? [Text me!](mailto:agustin.dv.2021@gmail.com)              
+- 📧 You wanna contact me? [Here's my info!](https://linktr.ee/noraklav)              
               
 
 
