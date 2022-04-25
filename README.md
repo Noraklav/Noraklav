@@ -7,6 +7,7 @@ Front End Web Developer
 *   🌍  I'm based in Argentina
 *   ✉️  You can contact me at [agustin.dv.2021@gmail.com](mailto:agustin.dv.2021@gmail.com)
 *   🧠  I'm learning JavaScript
+
 <a href="https://www.github.com/noraklav" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/noraklav?logo=github&style=for-the-badge&color=facc15&labelColor=171717" /></a>
 
