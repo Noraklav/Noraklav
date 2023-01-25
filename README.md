@@ -5,7 +5,6 @@ Front End Web Developer
 -----------------------
 
 *   🌍  I'm based in Argentina
-*   ✉️  You can contact me at [agustin.dv.2021@gmail.com](mailto:agustin.dv.2021@gmail.com)
 *   🧠  I'm learning React
 
 <a href="https://www.github.com/noraklav" target="_blank" rel="noreferrer"><img
@@ -29,13 +28,7 @@ Front End Web Developer
 
 ### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/noraklav"><img src="https://github-readme-stats.vercel.app/api?username=noraklav&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=facc15&bg_color=171717&hide_border=true&show_icons=true" alt="noraklav's GitHub stats" /></a>
-
-<a href="http://www.github.com/noraklav"><img src="https://activity-graph.herokuapp.com/graph?username=noraklav&bg_color=171717&color=ffffff&line=facc15&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/noraklav" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noraklav&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=facc15&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![Noraklav's GitHub stats](https://github-readme-stats.vercel.app/api?username=noraklav&show_icons=true&theme=radical)
 
 ### Support Me
 <a href="https://www.buymeacoffee.com/noraklav"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
