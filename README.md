@@ -29,6 +29,3 @@ Front End Web Developer
 ### Badges
 
 ![Noraklav's GitHub stats](https://github-readme-stats.vercel.app/api?username=noraklav&show_icons=true&theme=radical)
-
-### Support Me
-<a href="https://www.buymeacoffee.com/noraklav"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
