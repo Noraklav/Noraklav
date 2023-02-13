@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning the MERN (MongoDB, Express, React and Node) Stack<br><br>🌍 I'm based in Argentina
+Hi! Nice to meet you. I'm Agustin<br><br>🌱 I’m currently learning the MERN (MongoDB, Express, React and Node) Stack<br><br>🌍 I'm based in Argentina and working at ![Movistar Hispam](https://www.linkedin.com/company/movistar-telefonica-hispam/)
 
 
 ## 🌐 Socials:
