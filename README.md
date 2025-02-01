@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! Nice to meet you. I'm Agustin<br><br>🌱 I’m currently learning React<br><br>🌍 I'm based in Argentina and working at Movistar Hispam
+Hi! Nice to meet you. I'm Agustin<br><br>🌱 I’m currently learning Game Develpment<br><br>🌍 I'm based in Argentina and working at Movistar Hispam as Frontend Developer
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/agustin-di-vincenzo) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Agustn83608400) 
